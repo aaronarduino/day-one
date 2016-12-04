@@ -4,4 +4,4 @@
 
 ##Usage
 
-`cat input_file | ./day-one'
+`cat input_file | ./day-one`
